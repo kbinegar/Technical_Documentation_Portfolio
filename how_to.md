@@ -1,8 +1,8 @@
 ## How to Open a Local Git Repository in Visual Studio Code (macOS/Linux)
 ### Prerequisites
-- Git installed
-- VS Code installed
-- Access to the repository
+- Git is installed and available in Terminal (`git --version`)
+- Visual Studio Code is installed
+- A local Git repository exists on your machine
 
 1. **Allow Visual Studio Code (VS Code) to open repositories from Terminal**  
     To do so, enable the 'code' Terminal command in VS Code.   
