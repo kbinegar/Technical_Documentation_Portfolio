@@ -4,16 +4,14 @@
 - Visual Studio Code is installed
 - A local Git repository exists on your machine
 
-1. **Allow Visual Studio Code (VS Code) to open repositories from Terminal**  
-    To do so, enable the 'code' Terminal command in VS Code.   
+1. **Enable the `code` command in Terminal**  
+     This makes VS Code available to Terminal   
 
     &emsp;&emsp;In VS Code:
     1. Press: Cmd + Shift + P  
-    2. Type:  
+    2. Search for:  
         `Shell Command: Install 'code' command in PATH`  
-    3. Press: Enter   
-    
-    Now VS Code is availble to Terminal when opening files/folders
+    3. Press: Enter      
   
 2. **Open your repository in Terminal**  
     Navigate to your repo in Terminal using:  
