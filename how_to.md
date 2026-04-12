@@ -33,4 +33,7 @@
     ```
 
 4. **Click on your file to open & edit**
+
+### Verify 
+You should see your repository open in a new VS Code window, with files listed in the Explorer panel.
     
