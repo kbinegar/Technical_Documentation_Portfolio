@@ -7,39 +7,36 @@
 
 ### Steps
 1. **Open the project folder in VS Code**
-2. **Navigate to the Source Control panel**
-    - Press: Cmd + Shift + G
-    - Or, click on the Git Icon in the sidebar
-3. **Stage your changes:**
-    1. Open the "Repositories" dropdown menu
-    2. Click on the ellipsis icon
-    3. Navigate to Changes > Stage All Changes  
 
-    Staging changes acts as the waiting room for commits, the feature allows you to choose which changes you want included in your commit, if needed.  
+2. **Open the Source Control panel**
+    - Press `Cmd+Shift+G`
+    - Or, click on Source Control in the sidebar
+
+3. **Stage changes**
+   - In the Source Control panel, select the **+** icon next to a file to stage it, or  
+   - Select the **+** icon next to **Changes** to stage all files
+
+    Staging changes determines which modifications are included in a commit.
 
 4. **Make a commit**
 
-    1. Open "Changes" dropdown menu to see Staged Changes files 
-    2. Enter a descriptive commit message in the text box and press "Commit"
-        - Follow any team-based documentation titling here, or develop consistent titling for future reference and publishing
-        - Can open "Graph" dropdown to ensure this commit has saved in your List/Tree
+    1. In the Source Control panel, review the staged files under **Changes**
+    2. Enter a descriptive commit message in the text box and press **Commit**
 
 5.  **Publish to GitHub**
-    1. Back under your "Repositories" dropdown, select the cloud and arrow icon to begin publishing
-    2. VS Code will create popup:
+    1. Under **Repositories**, select Publish to GitHub
+    2. A pop-up appears with the message:
       `The extension 'GitHub' wants to sign in using GitHub.`  
-    Select "**Allow**"
-    3. VS Code will launch a new tab in your web browser
-        - If you are already logged in, GitHub will prompt you to continue with current account -> press "Continue" or "Use a different account"
-        - If you are not logged in, GitHub will prompt you to do so
-    4. Authorize VS Code in GitHub when prompted 
-    5. Follow email verification steps
-        - This verification will launch VS Code again, with  
-        `Publish to GitHub private repository username/repo_name`  
-            and  
-        `Publish to GitHub public repository username/repo_name`  
-    pre-entered in the Command line.
-    6. Highlight your selection and press Enter
+    Select **Allow**
+    3. A new browser tab opens
+        - If you are already signed in, select **Continue** or **Use a different account.**
+        - If you are not signed in, sign in to GitHub when prompted.
+    4. Authorize VS Code in GitHub when prompted
+        - If prompted, verify your email to continue.
+        - After authentication, VS Code displays publishing options:
+            - `Publish to GitHub private repository username/repo_name`
+            - `Publish to GitHub public repository username/repo_name`
+    5. Select a visibility option and press Enter
 
 ### Verify
 Upon success, VS Code will upload to GitHub and deliver pop-up: 
