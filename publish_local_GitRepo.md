@@ -1,9 +1,9 @@
 ## Publish a Local Git Repository to GitHub Using VS Code
 ### Prerequisites 
-1. Git installed
-2. A GitHub account
-3. VS Code installed
-4. Access to local project folder
+1. A GitHub account
+2. Git is installed and available in Terminal ('git --version')
+3. Visual Studio Code is installed
+4. A local Git repository exists on your machine
 
 ### Steps
 1. Open the project folder in VS Code
