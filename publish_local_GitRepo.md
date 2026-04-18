@@ -1,7 +1,7 @@
 ## Publish a Local Git Repository to GitHub Using VS Code
 ### Prerequisites 
 1. A GitHub account
-2. Git is installed and available in Terminal ('git --version')
+2. Git is installed and available in Terminal (`git --version`)
 3. Visual Studio Code is installed
 4. A local Git repository exists on your machine
 
@@ -40,8 +40,8 @@
         `Publish to GitHub public repository username/repo_name`  
     pre-entered in the Command line.
     6. Highlight your selection and press Enter
-    7. VS Code will upload to GitHub and deliver pop-up: 
-    `Successfuly published the "username/repo_name" repository to GitHub`
-    - Select "Open on GitHub" to navigate to your repo on your browser at GitHub.com
 
-Success. You may now edit your repo on GitHub and share with others. 
+### Verify
+Upon success, VS Code will upload to GitHub and deliver pop-up: 
+    `Successfuly published the "username/repo_name" repository to GitHub`  
+    Select "Open on GitHub" to navigate to your repo on your browser at GitHub.com. You may now edit your repo on GitHub and share with others. 
