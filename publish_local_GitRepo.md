@@ -1,5 +1,5 @@
-## Publish a Local Git Repository to GitHub Using VS Code
-This guide explains how to publish an existing local Git repository to GitHub using the Source Control features in Visual Studio Code.
+## Publish a Local Git Repository to GitHub Using Visual Studio Code
+This guide explains how to publish an existing local Git repository to GitHub using the Source Control features in VS Code.
 
 ### Prerequisites 
 1. A GitHub account
@@ -12,7 +12,7 @@ This guide explains how to publish an existing local Git repository to GitHub us
 
 2. **Open the Source Control panel**
     - Press `Cmd+Shift+G`
-    - Or, click on Source Control in the sidebar
+    - Or, select Source Control in the sidebar
 
 3. **Stage changes**
    - In the Source Control panel, select the **+** icon next to a file to stage it, or  
@@ -22,7 +22,7 @@ This guide explains how to publish an existing local Git repository to GitHub us
 
 4. **Make a commit**
 
-    1. In the Source Control panel, review the staged files under **Changes**
+    1. In the Source Control panel, review the staged files under **Staged Changes**
     2. Enter a descriptive commit message in the text box and press **Commit**
 
 5.  **Publish to GitHub**
@@ -31,14 +31,14 @@ This guide explains how to publish an existing local Git repository to GitHub us
       `The extension 'GitHub' wants to sign in using GitHub.`  
     Select **Allow**
     3. A new browser tab opens
-        - If you are already signed in, select **Continue** or **Use a different account.**
+        - If you are already signed in, select **Continue** or **Use a different account**
         - If you are not signed in, sign in to GitHub when prompted.
     4. Authorize VS Code in GitHub when prompted
         - If prompted, verify your email to continue.
         - After authentication, VS Code displays publishing options:
             - `Publish to GitHub private repository username/repo_name`
             - `Publish to GitHub public repository username/repo_name`
-    5. Select a visibility option and press Enter
+    5. Select a visibility option and press Enter.
 
 ### Verify
 After publishing, a confirmation message appears:
