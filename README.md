@@ -1,0 +1,54 @@
+# Technical Writing Portfolio – Kennedy Binegar
+
+I’m a technical writer focused on creating clear, user-centered documentation. My background in media studies and experience as a writing consultant inform my approach to structuring information, understanding audience needs, and improving clarity.
+
+This portfolio showcases my work in process documentation and docs-as-code workflows using tools such as Git, Markdown, and Visual Studio Code.
+
+---
+
+## Projects
+
+### Publish a Local Git Repository to GitHub Using Visual Studio Code
+A set of documentation designed to help users understand and complete a common developer workflow: publishing a local repository to GitHub using Visual Studio Code.
+
+- **Focus:** Process documentation, developer onboarding, user guidance  
+- **Tools:** Markdown, Git, GitHub, Visual Studio Code  
+- **Includes:**
+  - Step-by-step process guide  
+  - Quick start guide for experienced users  
+  - Troubleshooting documentation addressing common errors  
+
+[View Project](#)
+
+### Open a Local Git Repository in Visual Studio Code Using Terminal (macOS/Linux)
+A step-by-step guide that walks users through opening an existing local Git repository in Visual Studio Code using Terminal.
+
+- **Focus:** Process documentation, developer workflow guidance  
+- **Tools:** Git, Terminal, Visual Studio Code, Markdown  
+- **Includes:**
+  - Environment setup instructions (enabling the `code` command)  
+  - Command-line navigation and execution  
+  - Verification steps to confirm successful setup  
+
+[View Project](link)
+
+---
+
+## Skills
+
+- **Documentation:** Process guides, tutorials, troubleshooting content  
+- **Tools:** Git, GitHub, Markdown, Visual Studio Code  
+- **Practices:** Docs-as-code, version control, user-centered writing, content clarity and structure  
+
+---
+
+## About Me
+
+In addition to technical writing, I work as a professional writing consultant, collaborating with writers to improve clarity, organization, and effectiveness across a wide range of materials, including case studies, white papers, and grant proposals. This experience strengthens my ability to quickly assess audience needs and refine content for usability.
+
+---
+
+## Contact
+
+- LinkedIn: [Add link]
+- Portfolio: [Add link if applicable]
