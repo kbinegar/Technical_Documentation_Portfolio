@@ -1,24 +1,12 @@
 # Technical Writing Portfolio – Kennedy Binegar
 
-I’m a technical writer focused on creating clear, user-centered documentation. My background in media studies and experience as a writing consultant inform my approach to structuring information, understanding audience needs, and improving clarity.
+I am a technical writer focused on creating clear, user-centered documentation. My background in media studies and experience as a writing consultant inform my approach to structuring information, understanding audience needs, and improving clarity.
 
-This portfolio showcases my work in process documentation and docs-as-code workflows using tools such as Git, Markdown, and Visual Studio Code.
+This portfolio showcases my work in process documentation and docs-as-code workflows using tools such as Git, Markdown, and Visual Studio Code. 
 
 ---
 
 ## Projects
-
-### Publish a Local Git Repository to GitHub Using Visual Studio Code
-A set of documentation designed to help users understand and complete a common developer workflow: publishing a local repository to GitHub using Visual Studio Code.
-
-- **Focus:** Process documentation, developer onboarding, user guidance  
-- **Tools:** Markdown, Git, GitHub, Visual Studio Code  
-- **Includes:**
-  - Step-by-step process guide  
-  - Quick start guide for experienced users  
-  - Troubleshooting documentation addressing common errors  
-
-[View Project](#)
 
 ### Open a Local Git Repository in Visual Studio Code Using Terminal (macOS/Linux)
 A step-by-step guide that walks users through opening an existing local Git repository in Visual Studio Code using Terminal.
@@ -30,7 +18,19 @@ A step-by-step guide that walks users through opening an existing local Git repo
   - Command-line navigation and execution  
   - Verification steps to confirm successful setup  
 
-[View Project](link)
+[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/how_to.md)
+
+### Publish a Local Git Repository to GitHub Using Visual Studio Code
+A set of documentation designed to help users understand and complete a common developer workflow: publishing a local repository to GitHub using Visual Studio Code.
+
+- **Focus:** Process documentation, developer onboarding, user guidance  
+- **Tools:** Markdown, Git, GitHub, Visual Studio Code  
+- **Includes:**
+  - Step-by-step process guide  
+  - Quick start guide for experienced users  
+  - Troubleshooting documentation addressing common errors  
+
+[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/publish_local_GitRepo.md)
 
 ---
 
@@ -50,5 +50,5 @@ In addition to technical writing, I work as a professional writing consultant, c
 
 ## Contact
 
-- LinkedIn: [Add link]
-- Portfolio: [Add link if applicable]
+- [LinkedIn](www.linkedin.com/in/kennedy-binegar-53060b161)
+- Email: kcbinegar@gmail.com
