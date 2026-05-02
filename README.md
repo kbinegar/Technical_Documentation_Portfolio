@@ -32,6 +32,19 @@ A set of documentation designed to help users understand and complete a common d
 
 [View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/publish_local_GitRepo.md)
 
+### Understanding Local and Remote Repositories in Git
+An explanatory document that introduces core Git concepts and clarifies how changes move between local and remote environments.
+
+- **Focus:** Conceptual documentation, user education, foundational Git knowledge
+- **Tools:** Markdown, Git, GitHub
+- **Includes:**
+  - Clear definitions of key concepts (local vs. remote repositories, commits, push/pull)
+  - Explanation of how concepts connect within a typical workflow
+  - Example workflow illustrating how changes are created, shared, and synchronized
+  - Concise “Why this matters” section to reinforce practical relevance
+
+[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/Understanding_Local_and_Remote_Repositories_in_Git.md)
+
 ---
 
 ## Skills
