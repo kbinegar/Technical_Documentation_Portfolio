@@ -5,20 +5,20 @@ This document explains local and remote repositories and how they function with 
 
 ### Key Concepts
 **Local Repository**  
-A local repository is a version-controlled project stored on a user’s machine. It contains the project’s files along with its full change history.
+- A local repository is a version-controlled project stored on a user’s machine. It contains the project’s files along with its full change history.
 
 **Remote Repository**  
-A remote repository is a version-controlled project hosted on a cloud-based platform, such as GitHub. It allows users to store, share, and collaborate on code outside their local environment.
+- A remote repository is a version-controlled project hosted on a cloud-based platform, such as GitHub. It allows users to store, share, and collaborate on code outside their local environment.
 
 **Commits**  
-A commit is a recorded snapshot of changes made to a project. Each commit includes a message describing what was changed, creating a trackable history of updates over time.
+- A commit is a recorded snapshot of changes made to a project. Each commit includes a message describing what was changed, creating a trackable history of updates over time.
 
 **Push vs Pull**  
-“Push” and “pull” describe how changes move between a local repository and a remote repository.
-- **Push** sends your committed changes from your local repository to a remote repository (such as GitHub). 
-- **Pull** retrieves changes from a remote repository and updates your local copy.
+- “Push” and “Pull” describe how changes move between a local repository and a remote repository.
+    - **Push** sends your committed changes from your local repository to a remote repository (such as GitHub). 
+    - **Pull** retrieves changes from a remote repository and updates your local copy.
 
-These actions keep local and remote repositories synchronized.
+- These actions keep local and remote repositories synchronized.
 
 ### How They Work Together 
 A typical Git workflow involves making changes locally and then synchronizing those changes with a remote repository.
