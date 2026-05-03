@@ -1,0 +1,29 @@
+### New to GitHub Lecture: Jenni 
+These are notes from GitHub's technical writer Jenni Christensen from May 3rd, 2026. 
+
+## What is Version Control 
+
+## What is Git?
+
+## Git versus GitHub, are they the same? 
+
+## Branching 
+- Branching creates seperate copy you can play with without editing the main branch that everybody sees
+- We almost always start our work by branching
+
+## Pulling 
+- Pulling any changes from the cloud into the environemnt you are working in 
+
+## Pushing
+- Push them back to the cloud 
+
+
+## Merging
+- take you branch and merge them back onto main branch 
+
+## Dev Environment 
+- working directory
+- staging area 
+- local repository 
+
+## PR: Pull Request
