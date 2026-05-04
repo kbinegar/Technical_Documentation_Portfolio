@@ -18,7 +18,7 @@ A step-by-step guide that walks users through opening an existing local Git repo
   - Command-line navigation and execution  
   - Verification steps to confirm successful setup  
 
-[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/how_to.md)
+[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/Open_a_Local_Git_Repository_in_Visual_Studio_Code_Using_Terminal_(macOS%3ALinux).md)
 
 ### Publish a Local Git Repository to GitHub Using Visual Studio Code
 A set of documentation designed to help users understand and complete a common developer workflow: publishing a local repository to GitHub using Visual Studio Code.
@@ -30,7 +30,7 @@ A set of documentation designed to help users understand and complete a common d
   - Quick start guide for experienced users  
   - Troubleshooting documentation addressing common errors  
 
-[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/publish_local_GitRepo.md)
+[View Project](https://github.com/kbinegar/Technical_Documentation_Portfolio/blob/main/Publish_a_Local_Git_Repository_to_GitHub_Using_Visual_Studio_Code.md)
 
 ### Understanding Local and Remote Repositories in Git
 An explanatory document that introduces core Git concepts and clarifies how changes move between local and remote environments.
